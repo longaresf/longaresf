@@ -93,5 +93,5 @@ Un apasionado de la ingeniería de software en la intersección de la **Ciencia 
 
 ## 🤝 Conectemos
 
-* **LinkedIn:** [linkedin.com/in/francisco-javier-longares-silva](https://www.linkedin.com/in/francisco-javier-longares-silva)
+* **LinkedIn:** [linkedin.com/in/longaresf](https://www.linkedin.com/in/longaresf)
 * **GitHub:** [github.com/longaresf](https://github.com/longaresf)
