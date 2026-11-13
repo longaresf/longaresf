@@ -9,6 +9,7 @@ Un apasionado de la ingeniería de software en la intersección de la **Ciencia 
 *Flujos de trabajo analíticos automatizados, optimización de modelos de última generación y diseño experimental con estricto control estadístico.*
 
 ### 🚀 Proyectos Insignia (Core ML)
+**[retail-demand-forecasting-engine](https://github.com/longaresf/retail-demand-forecasting-engine)**: Motor modular de pronóstico de demanda y reposición de inventario para el sector retail que implementa validación temporal estricta (walk-forward validation) sin fuga de datos, regresores con XGBoost, análisis de series temporales y un dashboard interactivo en Streamlit.
 * **[xgboost-advanced-classification-pipeline](https://github.com/longaresf/xgboost-advanced-classification-pipeline)**: Pipeline híbrido de alta eficiencia que implementa *eXtreme Gradient Boosting* junto con remuestreos robustos con `RepeatedStratifiedKFold`.
 * **[advanced-classification-hyperparameter-tuning](https://github.com/longaresf/advanced-classification-hyperparameter-tuning)**: Framework experimental avanzado enfocado en la sintonización masiva de hiperparámetros con `GridSearchCV` y `RandomizedSearchCV`.
 * **[predictive-analytics-ml-challenge](https://github.com/longaresf/predictive-analytics-ml-challenge)**: Pipeline de Machine Learning de extremo a extremo que incluye análisis exploratorio (EDA) con `Seaborn` y algoritmos de boosting avanzados (`LightGBM`).
@@ -22,6 +23,7 @@ Un apasionado de la ingeniería de software en la intersección de la **Ciencia 
 *Sistemas distribuidos, microservicios, persistencia relacional avanzada y aplicaciones listas para producción utilizando contenedores y servidores WSGI.*
 
 ### 🚀 Proyectos Insignia (Core Backend & DevOps)
+**[retail-demand-forecasting-engine](https://github.com/longaresf/retail-demand-forecasting-engine)**: Pipeline analítico de Lakehouse bajo arquitectura Medallion (Bronze, Silver y Gold) que automatiza ingestas idempotentes, modelado dimensional en estrella con DuckDB y orquestación robusta con Dagster, complementado con un dashboard analítico en Streamlit.
 * **[django-real-estate-containerized](https://github.com/longaresf/containerized-real-estate-platform)**: Infraestructura backend para producción que implementa Docker y Gunicorn (WSGI) para el aislamiento y la escalabilidad de servicios web.
 * **[javascript-fullstack-application](https://github.com/longaresf/javascript-fullstack-application)**: Solución web integral de extremo a extremo que unifica un servidor en Node.js/Express con una capa de presentación interactiva.
 
