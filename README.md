@@ -23,7 +23,7 @@ Un apasionado de la ingeniería de software en la intersección de la **Ciencia 
 *Sistemas distribuidos, microservicios, persistencia relacional avanzada y aplicaciones listas para producción utilizando contenedores y servidores WSGI.*
 
 ### 🚀 Proyectos Insignia (Core Backend & DevOps)
-**[ecommerce-medallion-lakehouse-pipeline](https://github.com/longaresf/ecommerce-medallion-lakehouse-pipeline)**: Motor modular de pronóstico de demanda y reposición de inventario para el sector retail que implementa validación temporal estricta (walk-forward validation) sin fuga de datos, regresores con XGBoost, análisis de series temporales y un dashboard interactivo en Streamlit.
+* **[ecommerce-medallion-lakehouse-pipeline](https://github.com/longaresf/ecommerce-medallion-lakehouse-pipeline)**: Motor modular de pronóstico de demanda y reposición de inventario para el sector retail que implementa validación temporal estricta (walk-forward validation) sin fuga de datos, regresores con XGBoost, análisis de series temporales y un dashboard interactivo en Streamlit.
 * **[django-real-estate-containerized](https://github.com/longaresf/containerized-real-estate-platform)**: Infraestructura backend para producción que implementa Docker y Gunicorn (WSGI) para el aislamiento y la escalabilidad de servicios web.
 * **[javascript-fullstack-application](https://github.com/longaresf/javascript-fullstack-application)**: Solución web integral de extremo a extremo que unifica un servidor en Node.js/Express con una capa de presentación interactiva.
 
