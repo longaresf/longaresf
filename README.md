@@ -30,4 +30,4 @@ Ayudo a **PyMEs y medianas empresas** a eliminar el trabajo manual en planillas 
 
 ### Contacto Profesional
 * **Consultoría y Diagnósticos B2B:** `csc@a2b.cl`
-* **LinkedIn:** `[[Enlace a tu perfil de LinkedIn]](https://www.linkedin.com/in/longaresf/)`
+* **LinkedIn:** [[Enlace a tu perfil de LinkedIn]](https://www.linkedin.com/in/longaresf/)
