@@ -20,6 +20,7 @@ Ayudo a **PyMEs y medianas empresas** a eliminar el trabajo manual en planillas 
 
 * **[Pipeline de Consolidación y Calidad de Datos (Arquitectura Medallion)](https://github.com/longaresf/ecommerce-medallion-lakehouse-pipeline):** Ingesta automatizada, limpieza, validación de reglas de negocio y capa analítica lista para consumo gerencial con pruebas automatizadas (CI/CD).
 * **[Motor de Pronóstico de Demanda y Reposición de Inventario](https://github.com/longaresf/retail-demand-forecasting-engine):** Modelado estadístico y de Machine Learning para anticipar demanda por producto, optimizar compras y reducir quiebres de stock.
+* **[Motor Predictivo de Fuga de Clientes y Riesgo de Mora B2B (XGBoost)](https://github.com/longaresf/b2b-churn-credit-risk-xgboost):** Pipeline de clasificación en XGBoost de grado productivo para evaluar el riesgo de fuga de clientes y mora en facturas B2B. Incluye preprocesamiento automatizado, ajuste de hiperparámetros, explicabilidad con SHAP y CI/CD.
 
 ---
 
