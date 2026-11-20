@@ -23,15 +23,15 @@ Ayudo a **PyMEs y medianas empresas** a eliminar el trabajo manual en planillas 
 
 ---
 
-### Stack Tecnológico
-`Python` · `SQL (PostgreSQL / DuckDB)` · `FastAPI` · `Arquitectura Medallion` · `Docker` · `GitHub Actions (CI/CD)` · `Redis` · `Power BI / Metabase`
-
----
-
 ### Utilidades Abiertas (GitHub Gists)
 * **[Validador y Normalizador de RUT Chileno (Módulo 11)](https://gist.github.com/longaresf/33be05e4c8c38d86e0618396dd11eb8d):** Librería en Python puro para estandarizar IDs tributarios y aislar errores en cuarentena.
 * **[Conciliador SQL SII vs. ERP vs. Cartola Bancaria](https://gist.github.com/longaresf/79bf0ddf59d284837790f97a68797532:** Consulta analítica compatible con DuckDB y PostgreSQL con tolerancia conservadora y clasificación de excepciones.
 * **[Parser de Fechas Mixtas y Moneda CLP en Excel](https://gist.github.com/longaresf/362b6c51eb23508b29729e0a4f1979d8):** Limpieza trazable en `pandas` sin conversión silenciosa de errores a cero.
+
+---
+
+### Stack Tecnológico
+`Python` · `SQL (PostgreSQL / DuckDB)` · `FastAPI` · `Arquitectura Medallion` · `Docker` · `GitHub Actions (CI/CD)` · `Redis` · `Power BI / Metabase`
 
 ---
 
